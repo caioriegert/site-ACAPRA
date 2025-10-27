@@ -149,6 +149,11 @@ nav a{
     column-gap: 30px;
 }
 
+.nav-links a{
+    text-decoration: none;
+    color: purple;
+}
+
 .banner {
     width: 100%;
     height: fit-content;
